@@ -1,4 +1,4 @@
 website-offline-tool
 ====================
 
-A tool to make website offline and run locally
+A chrome extension to make website offline and run locally
